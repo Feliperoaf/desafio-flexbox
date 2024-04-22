@@ -30,9 +30,9 @@ body {
     color: rgb(10, 145, 10);
 }
 
-.offline {
+.last-txt {
     font-weight: lighter;
-    color: #aa3b2f;
+    color: #2E2E2E;
 }
 
 .sidebar-usuario-img{
